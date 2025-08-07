@@ -1,6 +1,6 @@
 # SIMBAD TAP Query Tool for Gaia DR3 IDs
 
-This project provides a Python-based tool for querying the [SIMBAD](http://simbad.u-strasbg.fr/simbad/) astronomical database using Gaia DR3 source IDs. It uses the ADQL (Astronomical Data Query Language) interface via PyVO's TAP client to extract astrophysical metadata such as object type, spectral type, effective temperature, and more.
+This project provides a Python-based tool for querying the [SIMBAD](http://simbad.u-strasbg.fr/simbad/) astronomical database using Gaia DR3 source IDs. It uses the ADQL (Astronomical Data Query Language) which is a subset of SQL, interface via PyVO's TAP client to extract astrophysical metadata such as object type, spectral type, effective temperature, and more.
 
 ---
 
