@@ -25,11 +25,8 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 📂 Input Format
-Prepare a text file called full_str that contains a column named source_id with Gaia DR3 source IDs. The file should be whitespace-delimited. Example:
+Prepare a text file called full_str that contains a column named source_id with Gaia DR3 source IDs Example:
 
-python-repl
-Copy
-Edit
 source_id
 123456789012345678
 987654321098765432
